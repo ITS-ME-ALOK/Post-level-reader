@@ -1,6 +1,6 @@
 # PDF To Excel Converter
 
-This application reads multi-page PDF files, extracts NAYA PYNE structural blocks using regular expressions, and generates transformed Excel files ready for consumption.
+This application reads multi-page PDF files, extracts post level structural blocks using regular expressions, and generates transformed Excel files ready for consumption.
 
 ## Architecture
 - `main.py`: Application entry point.
