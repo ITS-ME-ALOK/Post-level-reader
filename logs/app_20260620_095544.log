@@ -1,0 +1,22 @@
+2026-06-20 09:55:44,587 - PDFToExcelApp - INFO - Starting PDF to Excel Converter application
+2026-06-20 09:55:44,765 - PDFToExcelApp - INFO - Initializing PDFReader
+2026-06-20 09:55:44,766 - PDFToExcelApp - INFO - Initializing DataParser
+2026-06-20 09:55:44,768 - PDFToExcelApp - INFO - Initializing DataTransformer
+2026-06-20 09:55:44,768 - PDFToExcelApp - INFO - Initializing ExcelGenerator
+2026-06-20 09:55:44,832 - PDFToExcelApp - INFO - MainWindow initialized
+2026-06-20 09:55:46,826 - PDFToExcelApp - INFO - Opening file dialog for PDF selection
+2026-06-20 09:55:50,957 - PDFToExcelApp - INFO - Selected PDF: C:/Users/Alok kumar/Downloads/1.pdf
+2026-06-20 09:55:53,645 - PDFToExcelApp - INFO - Generate Excel button clicked
+2026-06-20 09:55:53,656 - PDFToExcelApp - DEBUG - Reading PDF from: C:/Users/Alok kumar/Downloads/1.pdf
+2026-06-20 09:55:53,656 - PDFToExcelApp - INFO - Extracting text from: C:/Users/Alok kumar/Downloads/1.pdf
+2026-06-20 09:55:53,665 - PDFToExcelApp - INFO - PDF has 1 pages.
+2026-06-20 09:55:53,922 - PDFToExcelApp - DEBUG - Extracted page 1/1
+2026-06-20 09:55:53,923 - PDFToExcelApp - INFO - Successfully extracted text from all pages.
+2026-06-20 09:55:53,923 - PDFToExcelApp - INFO - Extracted 1462 characters of text. Starting parsing...
+2026-06-20 09:55:53,925 - PDFToExcelApp - DEBUG - Parsing extracted data
+2026-06-20 09:55:53,926 - PDFToExcelApp - INFO - Titles found: 0
+2026-06-20 09:55:53,926 - PDFToExcelApp - INFO - OFF blocks found: 0
+2026-06-20 09:55:53,926 - PDFToExcelApp - INFO - RL blocks found: 0
+2026-06-20 09:55:53,927 - PDFToExcelApp - INFO - Successfully assembled 0 NayaPyneBlocks.
+2026-06-20 09:55:53,927 - PDFToExcelApp - ERROR - Processing failed: No valid NAYA PYNE blocks found in the PDF.
+2026-06-20 09:55:57,728 - PDFToExcelApp - INFO - Application closed

@@ -1,0 +1,7 @@
+2026-06-20 11:24:00,954 - PDFToExcelApp - INFO - Starting PDF to Excel Converter application
+2026-06-20 11:24:01,037 - PDFToExcelApp - INFO - Initializing PDFReader
+2026-06-20 11:24:01,037 - PDFToExcelApp - INFO - Initializing DataParser
+2026-06-20 11:24:01,037 - PDFToExcelApp - INFO - Initializing DataTransformer
+2026-06-20 11:24:01,038 - PDFToExcelApp - INFO - Initializing ExcelGenerator
+2026-06-20 11:24:01,069 - PDFToExcelApp - INFO - MainWindow initialized
+2026-06-20 11:27:30,858 - PDFToExcelApp - INFO - Application closed

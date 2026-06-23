@@ -1,0 +1,52 @@
+2026-06-20 11:07:59,206 - PDFToExcelApp - INFO - Starting PDF to Excel Converter application
+2026-06-20 11:07:59,299 - PDFToExcelApp - INFO - Initializing PDFReader
+2026-06-20 11:07:59,303 - PDFToExcelApp - INFO - Initializing DataParser
+2026-06-20 11:07:59,304 - PDFToExcelApp - INFO - Initializing DataTransformer
+2026-06-20 11:07:59,305 - PDFToExcelApp - INFO - Initializing ExcelGenerator
+2026-06-20 11:07:59,335 - PDFToExcelApp - INFO - MainWindow initialized
+2026-06-20 11:08:03,912 - PDFToExcelApp - INFO - Opening file dialog for PDF selection
+2026-06-20 11:08:07,905 - PDFToExcelApp - INFO - Selected PDF: C:/Users/Alok kumar/Downloads/EKNAR PYNE GRAPH.pdf
+2026-06-20 11:08:09,990 - PDFToExcelApp - INFO - Generate Excel button clicked
+2026-06-20 11:08:09,995 - PDFToExcelApp - DEBUG - Reading PDF from: C:/Users/Alok kumar/Downloads/EKNAR PYNE GRAPH.pdf
+2026-06-20 11:08:09,996 - PDFToExcelApp - INFO - Extracting text from: C:/Users/Alok kumar/Downloads/EKNAR PYNE GRAPH.pdf
+2026-06-20 11:08:10,009 - PDFToExcelApp - INFO - PDF has 22 pages.
+2026-06-20 11:08:10,136 - PDFToExcelApp - DEBUG - Extracted page 1/22
+2026-06-20 11:08:10,250 - PDFToExcelApp - DEBUG - Extracted page 2/22
+2026-06-20 11:08:10,472 - PDFToExcelApp - DEBUG - Extracted page 3/22
+2026-06-20 11:08:10,722 - PDFToExcelApp - DEBUG - Extracted page 4/22
+2026-06-20 11:08:10,918 - PDFToExcelApp - DEBUG - Extracted page 5/22
+2026-06-20 11:08:11,077 - PDFToExcelApp - DEBUG - Extracted page 6/22
+2026-06-20 11:08:11,177 - PDFToExcelApp - DEBUG - Extracted page 7/22
+2026-06-20 11:08:11,514 - PDFToExcelApp - DEBUG - Extracted page 8/22
+2026-06-20 11:08:11,850 - PDFToExcelApp - DEBUG - Extracted page 9/22
+2026-06-20 11:08:12,177 - PDFToExcelApp - DEBUG - Extracted page 10/22
+2026-06-20 11:08:12,513 - PDFToExcelApp - DEBUG - Extracted page 11/22
+2026-06-20 11:08:12,813 - PDFToExcelApp - DEBUG - Extracted page 12/22
+2026-06-20 11:08:13,028 - PDFToExcelApp - DEBUG - Extracted page 13/22
+2026-06-20 11:08:13,196 - PDFToExcelApp - DEBUG - Extracted page 14/22
+2026-06-20 11:08:13,315 - PDFToExcelApp - DEBUG - Extracted page 15/22
+2026-06-20 11:08:13,463 - PDFToExcelApp - DEBUG - Extracted page 16/22
+2026-06-20 11:08:13,622 - PDFToExcelApp - DEBUG - Extracted page 17/22
+2026-06-20 11:08:13,775 - PDFToExcelApp - DEBUG - Extracted page 18/22
+2026-06-20 11:08:13,922 - PDFToExcelApp - DEBUG - Extracted page 19/22
+2026-06-20 11:08:14,110 - PDFToExcelApp - DEBUG - Extracted page 20/22
+2026-06-20 11:08:14,204 - PDFToExcelApp - DEBUG - Extracted page 21/22
+2026-06-20 11:08:14,444 - PDFToExcelApp - DEBUG - Extracted page 22/22
+2026-06-20 11:08:14,445 - PDFToExcelApp - INFO - Successfully extracted text from all pages.
+2026-06-20 11:08:14,446 - PDFToExcelApp - INFO - Extracted 61829 characters of text. Starting parsing...
+2026-06-20 11:08:14,448 - PDFToExcelApp - DEBUG - Parsing extracted data
+2026-06-20 11:08:14,448 - PDFToExcelApp - INFO - Document split into 22 pages for parsing.
+2026-06-20 11:08:14,454 - PDFToExcelApp - WARNING - Page 5: Expected 10 POST OFF floats, found 50
+2026-06-20 11:08:14,454 - PDFToExcelApp - WARNING - Page 5: Expected 10 POST RL floats, found 50
+2026-06-20 11:08:14,456 - PDFToExcelApp - WARNING - Page 6: Expected 30 POST OFF floats, found 40
+2026-06-20 11:08:14,456 - PDFToExcelApp - WARNING - Page 6: Expected 30 POST RL floats, found 40
+2026-06-20 11:08:14,477 - PDFToExcelApp - INFO - Successfully sorted graph blocks by CH value in increasing order.
+2026-06-20 11:08:14,477 - PDFToExcelApp - INFO - Successfully assembled 83 NayaPyneBlocks.
+2026-06-20 11:08:14,477 - PDFToExcelApp - INFO - Successfully parsed 83 NAYA PYNE blocks.
+2026-06-20 11:08:14,479 - PDFToExcelApp - DEBUG - Transforming parsed data
+2026-06-20 11:08:14,479 - PDFToExcelApp - INFO - Transformed data into 415 rows.
+2026-06-20 11:08:14,479 - PDFToExcelApp - INFO - Transformed into 415 rows.
+2026-06-20 11:08:14,482 - PDFToExcelApp - DEBUG - Generating Excel file at: D:\Alok project\python project\pdf_to_excel_converter\output\EKNAR PYNE GRAPH_Output.xlsx
+2026-06-20 11:08:14,562 - PDFToExcelApp - INFO - Excel file successfully generated at D:\Alok project\python project\pdf_to_excel_converter\output\EKNAR PYNE GRAPH_Output.xlsx
+2026-06-20 11:08:17,057 - PDFToExcelApp - INFO - Opening output folder: D:\Alok project\python project\pdf_to_excel_converter\output
+2026-06-20 11:09:57,850 - PDFToExcelApp - INFO - Application closed

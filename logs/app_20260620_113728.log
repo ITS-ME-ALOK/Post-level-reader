@@ -1,0 +1,27 @@
+2026-06-20 11:37:29,016 - PDFToExcelApp - INFO - Starting PDF to Excel Converter application
+2026-06-20 11:37:29,100 - PDFToExcelApp - INFO - Initializing PDFReader
+2026-06-20 11:37:29,100 - PDFToExcelApp - INFO - Initializing DataParser
+2026-06-20 11:37:29,100 - PDFToExcelApp - INFO - Initializing DataTransformer
+2026-06-20 11:37:29,100 - PDFToExcelApp - INFO - Initializing ExcelGenerator
+2026-06-20 11:37:29,674 - PDFToExcelApp - INFO - MainWindow initialized
+2026-06-20 11:37:32,175 - PDFToExcelApp - INFO - Opening file dialog for PDF selection
+2026-06-20 11:37:35,475 - PDFToExcelApp - INFO - Selected PDF: C:/Users/Alok kumar/Downloads/1.pdf
+2026-06-20 11:37:36,354 - PDFToExcelApp - INFO - Generate Excel button clicked
+2026-06-20 11:37:36,360 - PDFToExcelApp - DEBUG - Reading PDF from: C:/Users/Alok kumar/Downloads/1.pdf
+2026-06-20 11:37:36,360 - PDFToExcelApp - INFO - Extracting text from: C:/Users/Alok kumar/Downloads/1.pdf
+2026-06-20 11:37:36,364 - PDFToExcelApp - INFO - PDF has 1 pages.
+2026-06-20 11:37:36,477 - PDFToExcelApp - DEBUG - Extracted page 1/1
+2026-06-20 11:37:36,478 - PDFToExcelApp - INFO - Successfully extracted text from all pages.
+2026-06-20 11:37:36,478 - PDFToExcelApp - INFO - Extracted 1462 characters of text. Starting parsing...
+2026-06-20 11:37:36,480 - PDFToExcelApp - DEBUG - Parsing extracted data
+2026-06-20 11:37:36,481 - PDFToExcelApp - INFO - Document split into 1 pages for parsing.
+2026-06-20 11:37:36,482 - PDFToExcelApp - INFO - Successfully sorted graph blocks by CH value in increasing order.
+2026-06-20 11:37:36,482 - PDFToExcelApp - INFO - Successfully assembled 6 NayaPyneBlocks.
+2026-06-20 11:37:36,482 - PDFToExcelApp - INFO - Successfully parsed 6 NAYA PYNE blocks.
+2026-06-20 11:37:36,484 - PDFToExcelApp - DEBUG - Transforming parsed data
+2026-06-20 11:37:36,484 - PDFToExcelApp - INFO - Transformed data into 30 rows.
+2026-06-20 11:37:36,485 - PDFToExcelApp - INFO - Transformed into 30 rows.
+2026-06-20 11:37:36,488 - PDFToExcelApp - DEBUG - Generating Excel file at: D:\Alok project\python project\pdf_to_excel_converter\output\1_Output_1.xlsx
+2026-06-20 11:37:36,513 - PDFToExcelApp - INFO - Excel file successfully generated at D:\Alok project\python project\pdf_to_excel_converter\output\1_Output_1.xlsx
+2026-06-20 11:37:41,397 - PDFToExcelApp - INFO - Opening output folder: D:\Alok project\python project\pdf_to_excel_converter\output
+2026-06-20 11:38:16,390 - PDFToExcelApp - INFO - Application closed
