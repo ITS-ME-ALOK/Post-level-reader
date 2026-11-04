@@ -5,7 +5,7 @@ a = Analysis(
     ['main.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[('C:\\Users\\Alok kumar\\AppData\\Local\\Programs\\Python\\Python310\\lib\\site-packages\\customtkinter', 'customtkinter/')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},
