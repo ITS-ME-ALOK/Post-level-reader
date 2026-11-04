@@ -1,0 +1,6 @@
+# Force GitHub Linguist to correctly detect Python
+*.spec linguist-language=Python
+*.bat  linguist-detectable=false
+*.txt  linguist-detectable=false
+*.md   linguist-documentation=true
+
